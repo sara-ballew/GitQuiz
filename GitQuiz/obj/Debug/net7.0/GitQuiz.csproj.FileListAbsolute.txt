@@ -1,0 +1,15 @@
+/Users/saraballew/Projects/GitQuiz/GitQuiz/bin/Debug/net7.0/GitQuiz
+/Users/saraballew/Projects/GitQuiz/GitQuiz/bin/Debug/net7.0/GitQuiz.deps.json
+/Users/saraballew/Projects/GitQuiz/GitQuiz/bin/Debug/net7.0/GitQuiz.runtimeconfig.json
+/Users/saraballew/Projects/GitQuiz/GitQuiz/bin/Debug/net7.0/GitQuiz.dll
+/Users/saraballew/Projects/GitQuiz/GitQuiz/bin/Debug/net7.0/GitQuiz.pdb
+/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/Debug/net7.0/GitQuiz.csproj.AssemblyReference.cache
+/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/Debug/net7.0/GitQuiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/Debug/net7.0/GitQuiz.AssemblyInfoInputs.cache
+/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/Debug/net7.0/GitQuiz.AssemblyInfo.cs
+/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/Debug/net7.0/GitQuiz.csproj.CoreCompileInputs.cache
+/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/Debug/net7.0/GitQuiz.dll
+/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/Debug/net7.0/refint/GitQuiz.dll
+/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/Debug/net7.0/GitQuiz.pdb
+/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/Debug/net7.0/GitQuiz.genruntimeconfig.cache
+/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/Debug/net7.0/ref/GitQuiz.dll
