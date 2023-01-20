@@ -107,6 +107,106 @@ namespace GitQuiz
                     correctAnswer5 = false;
                 }
             } while (correctAnswer5 == false);
+
+            Console.WriteLine("6. What is the Git command to show modified files in working directory, staged for your next commit?");
+            Console.WriteLine("Your answer is: ");
+            bool correctAnswer6;
+            do
+            {
+                string question6 = Console.ReadLine();
+                string answer6 = ("git status");
+
+                if (question6 == answer6)
+                {
+                    Console.WriteLine("Correct!");
+                    correctAnswer6 = true;
+                }
+                else
+                {
+                    Console.WriteLine("Incorrect, try again.");
+                    correctAnswer6 = false;
+                }
+            } while (correctAnswer6 == false);
+
+            Console.WriteLine("7. What is the Git command to add a file as it looks now to your to your next commit (stage)?");
+            Console.WriteLine("Your answer is: ");
+            bool correctAnswer7;
+            do
+            {
+                string question7 = Console.ReadLine();
+                string answer7 = ("git add [file]");
+
+                if (question7 == answer7)
+                {
+                    Console.WriteLine("Correct!");
+                    correctAnswer7 = true;
+                }
+                else
+                {
+                    Console.WriteLine("Incorrect, try again.");
+                    correctAnswer7 = false;
+                }
+            } while (correctAnswer7 == false);
+
+            Console.WriteLine("8. What is the Git command to commit your new staged content as a commit snapshot?");
+            Console.WriteLine("Your answer is: ");
+            bool correctAnswer8;
+            do
+            {
+                string question8 = Console.ReadLine();
+                string answer8 = ("git commit -m \"[descriptive message]\"");
+
+                if (question8 == answer8)
+                {
+                    Console.WriteLine("Correct!");
+                    correctAnswer8 = true;
+                }
+                else
+                {
+                    Console.WriteLine("Incorrect, try again.");
+                    correctAnswer8 = false;
+                }
+            } while (correctAnswer8 == false);
+
+            Console.WriteLine("9. What is the Git command to merge the specified branch's history into the current one?");
+            Console.WriteLine("Your answer is ");
+            bool correctAnswer9;
+            do
+            {
+                string question9 = Console.ReadLine();
+                string answer9 = ("git merge [branch]");
+
+                if (question9 == answer9)
+                {
+                    Console.WriteLine("Correct!");
+                    correctAnswer9 = true;
+                }
+                else
+                {
+                    Console.WriteLine("Incorrect, try again.");
+                    correctAnswer9 = false;
+                }
+            } while (correctAnswer9 == false);
+
+            Console.WriteLine("10. What is the Git command to switch to another branch and check it out into your working directory?");
+            Console.WriteLine("Your answer is");
+            bool correctAnswer10;
+            do
+            {
+                string question10 = Console.ReadLine();
+                string answer10 = ("git checkout");
+
+                if (question10 == answer10)
+                {
+                    Console.WriteLine("Correct!");
+                    correctAnswer10 = true;
+                }
+                else
+                {
+                    Console.WriteLine("Incorrect! Try Again.");
+                    correctAnswer10 = false;
+                }
+            } while (correctAnswer10 == false);
         }
     }
 }

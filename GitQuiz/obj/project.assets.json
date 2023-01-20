@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/saraballew/Projects/GitQuiz/GitQuiz/GitQuiz.csproj",
+      "projectUniqueName": "/Users/saraballew/Projects/Git Repos/GitQuiz/GitQuiz/GitQuiz.csproj",
       "projectName": "GitQuiz",
-      "projectPath": "/Users/saraballew/Projects/GitQuiz/GitQuiz/GitQuiz.csproj",
+      "projectPath": "/Users/saraballew/Projects/Git Repos/GitQuiz/GitQuiz/GitQuiz.csproj",
       "packagesPath": "/Users/saraballew/.nuget/packages/",
-      "outputPath": "/Users/saraballew/Projects/GitQuiz/GitQuiz/obj/",
+      "outputPath": "/Users/saraballew/Projects/Git Repos/GitQuiz/GitQuiz/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/saraballew/.nuget/NuGet/NuGet.Config"
